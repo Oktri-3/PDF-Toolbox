@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# PyInstaller temporary files
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Environment variables
+.env
